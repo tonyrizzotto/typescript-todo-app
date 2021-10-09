@@ -10,10 +10,18 @@ Clone the repository with:
 git clone https://github.com/tonyrizzotto/typescript-todo-app.git
 ```
 
-### `npm start`
+Once you've successfully cloned the project, navigate over into the project directory and open up your terminal and run:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+npm install
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Once that is completed, run:
+
+```
+npm start
+```
+
+A window will open up in your default browser and you'll be able to use the application.
+
+Enjoy!
