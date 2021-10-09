@@ -1,0 +1,52 @@
+form {
+  width: 90%;
+  max-width: 40rem;
+  margin: 2rem auto;
+}
+
+.form-control {
+  margin-bottom: 1rem;
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  margin-top: 5px;
+  font: inherit;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+input:focus {
+  outline: none;
+  border-color: #003e79;
+}
+
+button {
+  background: #0668b8;
+  border: 1px solid #0668b8;
+  border-radius: 5px;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover,
+button:active {
+  background: #077edf;
+  border-color: #077edf;
+}
