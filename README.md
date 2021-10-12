@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses a typescript template.
 
-## Start the Project
+## View This Project
+
+This application is hosted on my website and can be viewed [here](https://tonyrizzotto.com/typescript-todo/).
+
+### Start the Project Locally
 
 Clone the repository with:
 
